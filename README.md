@@ -218,4 +218,4 @@ The project is currently under active development. Features will be implemented 
 
 ## License
 
-This project is intended for educational and learning purposes.
+This project is intended for educational and learning purposes only for now, ferther down the line hope it turns out big.
